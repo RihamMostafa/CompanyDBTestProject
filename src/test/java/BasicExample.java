@@ -7,7 +7,7 @@ import java.sql.SQLException;
 
 import static org.junit.jupiter.api.Assertions.assertFalse;
 
-public class BasicExampleTest {
+public class BasicExample {
 
     @Test
     public void checkDuplicate() throws SQLException {
